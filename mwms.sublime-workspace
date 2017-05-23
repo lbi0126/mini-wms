@@ -1,0 +1,702 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Na",
+				"NameValue"
+			],
+			[
+				"row",
+				"rowPosition"
+			],
+			[
+				"BO",
+				"BOUND_CD.value"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"c",
+				"code"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"ite",
+				"items〔function〕"
+			],
+			[
+				"ver",
+				"version_info〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Package Control Messages\n========================\n\nSublimeGit\n----------\n\n  Welcome to SublimeGit\n  =====================\n  \n  SublimeGit is a full-featured, commercial plugin for integrating\n  git into Sublime Text 2 and 3. To read more about it, or purchase\n  a license, go to https://sublimegit.net.\n  \n  \n  Quickstart\n  ----------\n  Make sure to restart Sublime Text after installing SublimeGit.\n  \n  Run the command \"Git: Status\" to open the status view. This\n  is where you'll spend most of the time when interacting with\n  git through SublimeGit. From here you can stage/unstage files,\n  manage stashes, view diffs, and initiate a commit.\n  \n  Other commands are available in the command palette (cmd+shift+p\n  on OS X, ctrl+shift+p on Windows/Linux). They are all prefixed\n  with \"Git:\" and most of them do exactly what it says on the label.\n  \n  \n  Tutorial\n  --------\n  For the full tutorial, go to:\n  \n      https://docs.sublimegit.net/tutorial.html\n  \n  \n  Trouble Getting Started?\n  ------------------------\n  If you are on windows, or don't usually use git from the command\n  line, there might be some things you'll need to set up. Go here\n  for instructions on how to get set up:\n  \n      https://docs.sublimegit.net/quickstart.html\n  \n  \n  Issues, Questions or Bugs?\n  --------------------------\n  Send a mail to support@sublimegit.net, or report it in the issue\n  tracker:\n  \n      https://github.com/SublimeGit/SublimeGit/issues\n",
+			"settings":
+			{
+				"buffer_size": 1447,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "git init",
+		"selected_items":
+		[
+			[
+				"git init",
+				"Git: Init"
+			],
+			[
+				"git:push",
+				"Git: Push"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git:add",
+				"Git: Add Remote"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"git:",
+				"Git: Version"
+			],
+			[
+				"git:cu",
+				"Git: Custom Command"
+			],
+			[
+				"git:init",
+				"Git: Init"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"INST",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"UPPER",
+				"Convert Case: Upper Case"
+			],
+			[
+				"int",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"indenta",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"python",
+				"SublimeREPL: Python"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 202.0,
+		"history":
+		[
+			"clear",
+			"node",
+			"node helloword.js",
+			"node -v",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/Study/mini-wms",
+		"/F/Study/mini-wms/public/images",
+		"/F/Study/mini-wms/public/javascripts"
+	],
+	"file_history":
+	[
+		"/F/Study/mini-wms/app.js",
+		"/F/Study/mini-wms/.gitignore",
+		"/D/cosco_wmsApp - NEW/coscoEar/hdWebApp/WMS/W/ORDS/SQL/WWORDS010D.sql",
+		"/D/cosco_wmsApp - NEW/coscoEar/hdWebApp/WMS/W/ORDS/report/viewer.bak",
+		"/D/cosco_wmsApp - NEW/coscoEar/hdWebApp/WMS/W/ORDS/report/report.jsp",
+		"/D/cosco_wmsApp - NEW/coscoEar/hdWebApp/WMS/A/ACCT/WAACCT060.jsp",
+		"/D/cosco_wmsApp - NEW/coscoEar/hdWebApp/WMS/G/MMGT/WGMMGT010.jsp",
+		"/D/cosco_wmsApp - NEW/coscoEar/hdWebApp/WMS/W/ORDS/WWORDS050.jsp",
+		"/D/cosco_wmsApp - NEW/coscoEar/hdWebApp/WMS/W/ORDS/WWORDS070.jsp",
+		"/D/cosco_wmsApp - NEW/coscoEar/hdWebApp/WMS/W/ORDS/report/WWORDS031R.mrd",
+		"/C/Users/hoonho.choi/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/D/cosco_wmsApp - NEW/coscoEar/hdWebApp/WMS/W/ORDS/SQL/WWORDS054S.sql",
+		"/D/cosco_wmsApp - NEW/coscoEar/hdWebApp/WMS/W/ORDS/SQL/WWORDS050I.sql",
+		"/D/cosco_wmsApp - NEW/coscoEar/hdWebApp/WMS/W/ORDS/SQL/WWORDS052S.sql",
+		"/D/cosco_wmsApp - NEW/coscoEar/hdWebApp/WMS/W/ORDS/SQL/WWORDS053S.sql",
+		"/D/cosco_wmsApp - NEW/coscoEar/hdWebApp/WMS/G/MMGT/SQL/WGMMGT010.jsp",
+		"/D/cosco_wmsApp - NEW/coscoEar/hdWebApp/WMS/A/ACCT/SQL/WAACCT060S.sql",
+		"/D/cosco_wmsApp - NEW/coscoEar/hdWebApp/COM/cmn/js/cmnJs.js",
+		"/D/cosco_wmsApp - NEW/coscoEar/hdWebApp/RDServer/m2soft/index.jsp",
+		"/D/cosco_wmsApp - NEW/coscoEar/hdWebApp/COM/cmn/js/object.js",
+		"/D/cosco_wmsApp - NEW/coscoEar/webApp.conf",
+		"/D/cosco_wmsApp - NEW/coscoEar/hdWebApp/RDServer/rdserversetup.config1288745187023.bak",
+		"/D/cosco_wmsApp - NEW/coscoEar/hdWebApp/RDServer/rdserversetup.config",
+		"/D/cosco_wmsApp - NEW/coscoEar/hdWebApp/RDServer/conf/rd.properties",
+		"/D/cosco_wmsApp - NEW/coscoEar/hdWebApp/RDServer/conf/db.properties",
+		"/D/cosco_wmsApp - NEW/coscoEar/hdWebApp/RDServer/conf/log.properties",
+		"/F/Projects/01-롯데정보통신/2017-서버이관/shell-backup/hosts",
+		"/D/cosco_wmsApp - NEW/coscoEar/webApp_unix.conf",
+		"/D/HProject/swms/srv_side/helloworld.js",
+		"/D/cosco_wmsApp - NEW/sftp-config.json",
+		"/D/cosco_wmsApp/coscoEar/hdWebApp/RDServer/conf/rd.properties",
+		"/D/cosco_wmsApp/coscoEar/hdWebApp/RDServer/conf/log.properties",
+		"/D/cosco_wmsApp/coscoEar/hdWebApp/RDServer/rdserversetup.config",
+		"/D/cosco_wmsApp/coscoEar/hdWebApp/RDServer/sample/세금계산서.txt",
+		"/D/cosco_wmsApp/coscoEar/hdWebApp/RDServer/sample/ejb/사용및Deploy방법.doc",
+		"/D/cosco_wmsApp_ip/CCCUST005.jsp",
+		"/D/cosco_wmsApp/coscoEar/hdEJBApp/META-INF/weblogic-ejb-jar.xml",
+		"/D/cosco_wmsApp/coscoEar/APP-INF/classes/com/edi/EDI_MAPPER.xml",
+		"/D/cosco_wmsApp/coscoEar/hdWebApp/WEB-INF_BAK/gsaf-config.xml",
+		"/D/cosco_wmsApp/coscoEar/doc/jeus606/config/localhost/JEUSMain.xml",
+		"/D/cosco_wmsApp/coscoEar/hdWebApp/RDServer/conf/db.properties",
+		"/D/cosco_wmsApp/coscoEar/webApp_1110.conf",
+		"/F/Projects/01-롯데정보통신/2017-서버이관/코스코-ip변경/Find Results",
+		"/F/psnetstat.vbs",
+		"/C/Users/HOONHO~1.CHO/AppData/Local/Temp/BNZ.59081f0d24f2dabc/webApp.conf",
+		"/C/Users/HOONHO~1.CHO/AppData/Local/Temp/BNZ.59081eeb24f25763/webApp.conf",
+		"/C/Users/HOONHO~1.CHO/AppData/Local/Temp/BNZ.59081d3e24ebca24/webApp.conf",
+		"/F/Projects/90-backup/201701/70-cosco/COSCO_HICONS/[UNI]COSCO 관련 자료/[UNI]COSCO 관련 자료/webApp.conf",
+		"/F/Projects/01-롯데정보통신/2017-서버이관/shell-backup/New/hutms-17/config.xml",
+		"/F/Projects/01-롯데정보통신/2017-서버이관/shell-backup/New/hutms-17/startM1.sh",
+		"/F/Projects/01-롯데정보통신/2017-서버이관/shell-backup/New/hutms-18/startM2.sh",
+		"/F/Projects/01-롯데정보통신/2017-서버이관/shell-backup/New/hutms-18/stopA.sh",
+		"/F/Projects/01-롯데정보통신/2017-서버이관/shell-backup/New/hutms-18/stopM2.sh",
+		"/F/Projects/01-롯데정보통신/2017-서버이관/shell-backup/New/hutms-17/stopM1.sh",
+		"/F/Projects/01-롯데정보통신/2017-서버이관/shell-backup/hutms-17/logM1.sh",
+		"/F/Projects/01-롯데정보통신/2017-서버이관/shell-backup/hutms-17/startM1.sh",
+		"/F/Projects/01-롯데정보통신/2017-서버이관/shell-backup/hutms-18/startM2.sh",
+		"/F/Projects/01-롯데정보통신/2017-서버이관/shell-backup/hutms-17-NEW/startM1.sh",
+		"/F/Projects/01-롯데정보통신/2017-서버이관/shell-backup/hutms-18-OLD/startM2.sh",
+		"/F/Projects/01-롯데정보통신/2017-서버이관/shell-backup/hutms-17/bin/hosts",
+		"/F/Projects/11.롯데렌탈/LRP_WMS_AN_프로세스정의서 - 점검",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-09_07_09.1.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-08_56_24.12.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-05-15_55_45.32.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-05-14_51_16.2.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-05-14_29_48.5.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-05-14_08_16.48.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-05-14_19_04.11.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-09_28_46.3.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-09_18_02.13.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-09_50_19.6.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-10_01_05.20.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-10_11_56.27.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-10_22_42.8.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-10_44_13.9.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-10_54_59.17.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-11_17_00.1.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-11_49_17.2.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-12_00_03.2.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-12_53_57.3.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-13_04_44.2.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-09_39_32.1.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-13_15_36.5.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-13_47_58.1.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-13_37_11.4.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-13_58_46.4.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-14_31_07.2.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-15_25_01.1.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-15_57_18.1.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-05-17_00_16.13.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-05-15_45_01.3.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-05-15_23_34.2.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-05-15_12_49.22.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-05-16_28_03.1.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-05-16_38_47.16.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-16_08_04.5.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-16_51_09.2.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-17_01_54.1.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-05-08_13_34.2.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-05-08_45_48.3.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-05-09_07_16.15.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-05-08_56_32.5.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-05-09_18_05.1.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-05-09_28_50.1.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-05-09_39_34.6.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-05-10_01_02.7.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-05-10_33_19.1.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-05-11_05_30.2.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-05-11_16_19.1.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-06_36_40.1.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-08_13_24.20.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-08_24_09.9.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-08_34_53.2.complete",
+		"/D/HHI_TEMP/0404-/INVOICE-2017-04-04-08_45_38.14.complete",
+		"<untitled 169>",
+		"/F/Study/Python/test_python/huno_test_address_book.py",
+		"/F/Study/Python/test_python/triangle.py",
+		"/D/HHI_TEMP/INVOICE-2017-04-05-09_28_50.1.complete",
+		"/F/Study/Python/test_python/save_files_by_category.py",
+		"/D/HHI_TEMP/INVOICE-2017-04-05-11_05_30.2.complete",
+		"/D/HHI_TEMP/INVOICE-2017-04-05-08_13_34.2.complete",
+		"/D/HHI_TEMP/INVOICE-2017-04-05-08_45_48.3.complete",
+		"/D/HHI_TEMP/INVOICE-2017-04-05-08_56_32.5.complete",
+		"/D/HHI_TEMP/INVOICE-2017-04-05-09_07_16.15.complete",
+		"/D/HHI_TEMP/INVOICE-2017-04-05-09_18_05.1.complete",
+		"/F/Projects/01-롯데정보통신/운영중 DB유저_2014.txt",
+		"/C/Users/hoonho.choi/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/F/Study/Python/test_python/stdlib_logging.py"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 131.0,
+		"where_history":
+		[
+			"D:\\cosco_wmsApp - NEW",
+			"D:\\cosco_wmsApp",
+			"F:\\Projects\\01-롯데정보통신\\2017-서버이관\\shell-backup\\New",
+			"F:\\Projects\\01-롯데정보통신\\2017-서버이관\\shell-backup\\hutms-17",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"report",
+			"출력",
+			"_dst.",
+			"bound_cd",
+			"select",
+			"_dst.",
+			"BOUND",
+			"bound_dst",
+			"bound",
+			"SRC_CO_FORWARD_CD",
+			"BOUND_CD",
+			"funcGetPrefix",
+			"funcSave",
+			"bound_dst",
+			"CCOMM_WT_002S",
+			"bound_dst",
+			"funcGetPrefix",
+			"funcSave",
+			"funcSaveChk",
+			"funcSave",
+			"funcSaveChk",
+			"SRC_CO_FORWARD_CD",
+			"funcGetPrefix",
+			"returnMsgDtSet",
+			"GridToExcel",
+			"RunExcel",
+			"excel",
+			"RunExcel",
+			"sub_dtl_dst",
+			"ServerPort",
+			"getServerPort",
+			"WebAppServletContext",
+			"10.134.241.33",
+			"203.",
+			"203.228",
+			"HLCWAS2",
+			"WAS1",
+			"203.228.",
+			"');",
+			"203.228.216.99",
+			"203.228.219.99",
+			"203.228",
+			"OU_NRESULT_NO",
+			"203.242.255.96",
+			"203.242.32.4",
+			"poolman.xml",
+			"203.242.32",
+			"203.242.32.110",
+			"203.242.44.91",
+			"203.",
+			"MAIL_SERVER",
+			"203.228.",
+			"203.",
+			",",
+			"'",
+			"203.242.255.70",
+			"203.228.219.99",
+			".52",
+			"203.242.45.52",
+			"coreana",
+			"203.228",
+			"203.228.44",
+			"HLCDBKDEV",
+			"203.242.44.91",
+			"cosco_wmsM1",
+			"HLCWEB2",
+			"console",
+			"RD",
+			"203.228",
+			"203.228.216.156",
+			"203.228.216.155",
+			"203.228.216.29",
+			"127.0.0.1",
+			"203.228.216.46",
+			"203.228.216.18",
+			"203.228.216.17",
+			"203.228.216.156",
+			"203.228.216.155",
+			"203.228.216.17",
+			"203.228.216.18",
+			"hutms11M1",
+			"US311",
+			"UD334",
+			"US311",
+			"UB911",
+			"030401",
+			"UB911",
+			"-",
+			"UB911",
+			"K00000",
+			"UB911",
+			"ÀüÀüÀü±âÁ¤ºñÆÀ",
+			"K00000",
+			"20170407",
+			"K00000",
+			"UB911",
+			"K00000",
+			"HDEDI",
+			"EDI",
+			"TRANS",
+			"TMSPDA",
+			"LOTTEMFTP",
+			"200003060000",
+			"color",
+			"HMTMS",
+			"HM",
+			"png",
+			"HDKOTECH",
+			"BEAUTY",
+			"HDIFC",
+			"LFOOD",
+			"PNGIDOL",
+			"PNG",
+			"LABI",
+			"TDITF",
+			"GNGCM",
+			"NFITF_VIEW",
+			"FTP3PL_VIEW_DBTEST",
+			"HDKOTECH",
+			"NFEAI",
+			"HDPUB_VIEW",
+			", ",
+			"flush",
+			"stdout",
+			"\\",
+			"-"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"203.228.216.99",
+			"",
+			"HLCDB2-VIP",
+			"HLCDB1-VIP",
+			"HLCEDI-VIP",
+			"localhost",
+			"HLCEDI1",
+			"HLCWAS2",
+			"HLCWAS1",
+			"",
+			"100003060000",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								186,
+								186
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"default_dir": "F:\\Study\\mini-wms",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 338.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 197.0
+	},
+	"output.git-commit":
+	{
+		"height": 142.0
+	},
+	"output.sftp":
+	{
+		"height": 142.0
+	},
+	"pinned_build_system": "Packages/User/node.sublime-build",
+	"project": "mwms.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wwords031",
+				"coscoEar\\hdWebApp\\WMS\\W\\ORDS\\report\\WWORDS031R.mrd"
+			],
+			[
+				"wwords070.jsp",
+				"coscoEar\\hdWebApp\\WMS\\W\\ORDS\\WWORDS070.jsp"
+			],
+			[
+				"wwords054s",
+				"coscoEar\\hdWebApp\\WMS\\W\\ORDS\\SQL\\WWORDS054S.sql"
+			],
+			[
+				"wwords052s",
+				"coscoEar\\hdWebApp\\WMS\\W\\ORDS\\SQL\\WWORDS052S.sql"
+			],
+			[
+				"wwords050",
+				"coscoEar\\hdWebApp\\WMS\\W\\ORDS\\SQL\\WWORDS050I.sql"
+			],
+			[
+				"wwords050.jsp",
+				"coscoEar\\hdWebApp\\WMS\\W\\ORDS\\WWORDS050.jsp"
+			],
+			[
+				"wgmmgt010.jsp",
+				"coscoEar\\hdWebApp\\WMS\\G\\MMGT\\SQL\\WGMMGT010.jsp"
+			],
+			[
+				"waacct060s",
+				"coscoEar\\hdWebApp\\WMS\\A\\ACCT\\SQL\\WAACCT060S.sql"
+			],
+			[
+				"cmn/js/cmnjs.js",
+				"coscoEar\\hdWebApp\\COM\\cmn\\js\\cmnJs.js"
+			],
+			[
+				"waacct060.jsp",
+				"coscoEar\\hdWebApp\\WMS\\A\\ACCT\\WAACCT060.jsp"
+			],
+			[
+				"index.jsp",
+				"coscoEar\\hdWebApp\\RDServer\\m2soft\\index.jsp"
+			],
+			[
+				"db.pr",
+				"coscoEar\\hdWebApp\\RDServer\\conf\\db.properties"
+			],
+			[
+				"log.p",
+				"coscoEar\\hdWebApp\\RDServer\\conf\\log.properties"
+			],
+			[
+				"db.properties",
+				"coscoEar\\hdWebApp\\RDServer\\conf\\db.properties"
+			],
+			[
+				"rd.properties",
+				"coscoEar\\hdWebApp\\RDServer\\conf\\rd.properties"
+			],
+			[
+				"config.xml",
+				"coscoEar\\hdEJBApp\\META-INF\\weblogic-ejb-jar.xml"
+			],
+			[
+				"edi_mapper.xml",
+				"coscoEar\\APP-INF\\classes\\com\\edi\\EDI_MAPPER.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 359.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

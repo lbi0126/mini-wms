@@ -1,0 +1,23 @@
+{
+  "name": "mini-wms",
+  "description": "mini-wms bower",
+  "main": "",
+  "authors": [
+    "huno"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "minimal",
+    "warehouse",
+    "management",
+    "system"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
